@@ -1,0 +1,8 @@
+python-dotenv
+groq
+pandas
+numpy
+pyyaml #used to config the yaml files
+flask
+markdown
+logging
